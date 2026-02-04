@@ -49,16 +49,16 @@ Survived → Target variable (1 = Survived, 0 = Did not survive)
 
 🧠 Insights
 
-Female passengers had higher survival chances.
-Passengers in 1st class were more likely to survive.
-Younger passengers had slightly better chances.
+- Female passengers had higher survival chances.
+- Passengers in 1st class were more likely to survive.
+- Younger passengers had slightly better chances.
 
 🧪 Sample Predictions
 
-Passenger	Pclass	Sex	Age	SibSp	Parch	Fare	Prediction
-1	3	Male	25	0	0	7.25	❌ Did Not Survive
-2	1	Female	38	1	0	71.83	✅ Survived
-3	2	Male	45	0	2	13.0	❌ Did Not Survive
+- Passenger	Pclass	Sex	Age	SibSp	Parch	Fare	Prediction
+- 1	3	Male	25	0	0	7.25	❌ Did Not Survive
+- 2	1	Female	38	1	0	71.83	✅ Survived
+- 3	2	Male	45	0	2	13.0	❌ Did Not Survive
 
 ⚙️ Technologies Used
 
