@@ -1,4 +1,4 @@
-# Titanic-survival-project-using-Decision-tree-algorithm
+# Titanic Survival Project using Decision tree algorithm
 --------------------------------------------------------------------------
 ### Project Overview
 
