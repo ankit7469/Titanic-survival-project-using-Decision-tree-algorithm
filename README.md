@@ -1,27 +1,28 @@
-# Titanic Survival Project using Decision tree algorithm
+# Titanic Survival Project using Decision Tree algorithm
 -------------------------------------------------------------------------------------
-### Project Overview
 
-This project predicts whether a passenger survived the Titanic disaster based on features such as age, gender, ticket class, and fare.
-A Decision Tree Classifier is used to model the relationship between these features and survival probability.
+## Project Overview - 
 
-🧠 Objective
+- This project predicts whether a passenger survived the Titanic disaster based on features such as age, gender, ticket class, and fare.
+- A Decision Tree Classifier is used to model the relationship between these features and survival probability.
+
+🧠 Objective - 
 
 To analyze the Titanic dataset and build a machine learning model that can predict survival outcomes of passengers with good accuracy.
 
-📂 Dataset
+📂 Dataset - 
 
 Source: Titanic Dataset – DataScienceDojo (Kaggle Version)
 
 Key Features Used:
 
-Pclass → Passenger Class (1 = Upper, 2 = Middle, 3 = Lower)
-Sex → Gender (0 = Male, 1 = Female)
-Age → Passenger’s Age
-SibSp → Number of siblings/spouses aboard
-Parch → Number of parents/children aboard
-Fare → Ticket fare
-Survived → Target variable (1 = Survived, 0 = Did not survive)
+- Pclass → Passenger Class (1 = Upper, 2 = Middle, 3 = Lower)
+- Sex → Gender (0 = Male, 1 = Female)
+- Age → Passenger’s Age
+- SibSp → Number of siblings/spouses aboard
+- Parch → Number of parents/children aboard
+- Fare → Ticket fare
+- Survived → Target variable (1 = Survived, 0 = Did not survive)
 
 🧩 Steps Performed
 
