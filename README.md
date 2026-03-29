@@ -1,6 +1,5 @@
 # Titanic Survival Project using Decision Tree algorithm
 ----------------------------------------------------------------------------------------
-
 ## Project Overview - 
 
 - This project predicts whether a passenger survived the Titanic disaster based on features such as age, gender, ticket class, and fare.
